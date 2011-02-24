@@ -1,0 +1,1 @@
+rsync -az --progress --size-only * markvshaney@ptigas.com:ptigas.com/blog/wp-content/themes/tigatron/
